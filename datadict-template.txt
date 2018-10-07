@@ -1,0 +1,8 @@
+DATA DICTIONARY
+===============
+
+The purpose of this document is to define the columns of the dataset and to add any notes per column. Below is relevant information about this dataset.
+
+source:
+date obtained:
+coverage topic:

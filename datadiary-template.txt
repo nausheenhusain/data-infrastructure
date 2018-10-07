@@ -1,0 +1,9 @@
+DATA DIARY
+==========
+
+The purpose of this document is to chronologically record how you have changed or manipulated this dataset.
+
+What are some questions you want to answer with this dataset?
+
+
+
