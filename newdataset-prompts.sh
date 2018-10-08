@@ -2,6 +2,8 @@
 # A bash script to create a data folder for a new dataset, executed through the command `newdata`.
 # Creates a directory with a slug, a data dictionary and a data diary.
 
+# takes you to root level so that you can run the 'newdata' command from anywhere
+cd
 # Asks you to enter a phrase as a slug
 echo "Hi! Please enter a descriptive phrase to be used as a slug for this directory."
 read slug
